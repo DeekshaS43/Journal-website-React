@@ -1,0 +1,84 @@
+.card-b {
+    display: flex;
+    justify-content: center;
+    gap: 0.2rem;
+    margin-bottom: 5px;
+    margin-top: 3px;
+    background-color: rgb(238, 235, 235);
+  }
+  
+  .card-b .card-title {
+    font-size: 0.8rem;
+  }
+  
+  .head h2 {
+    font-size: 1.3rem;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  
+  .para p {
+    text-align: center;
+    font-size: 0.8rem;
+  }
+  
+  .card-title i {
+    font-size: 0.7rem;
+  }
+  
+  .body-c {
+    text-align: center;
+    font-size: 0.8rem;
+    margin-bottom: 1rem;
+  }
+  
+  .body-c .card-link {
+    color: gray;
+  }
+  
+  .blog {
+    text-align: center;
+    background-color: rgb(246, 242, 242);
+    padding: 2.5rem;
+  }
+  
+  .blog-heading {
+    padding: 2rem;
+  }
+  
+  .blog-option {
+    list-style: none;
+    display: flex;
+    padding: 1rem;
+    justify-content: center;
+    margin-top: 30px;
+  }
+  
+  .blog-option li {
+    padding: 1rem;
+    background-color: gray;
+    font-weight: 500;
+    font-size: 1rem;
+    color: black;
+  }
+  
+  .blog-option li:hover {
+    background-color: blue;
+    color: white;
+  }
+  
+  .robin {
+    display: flex;
+    justify-content: center;
+    gap: 2rem !important;
+    padding:3rem;
+  }
+  
+  .image-gallery {
+    height: 15rem;
+  }
+  
+  .blog .card {
+    height: 28rem;
+  }
+  

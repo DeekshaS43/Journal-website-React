@@ -1,0 +1,46 @@
+.c-1 {
+    text-align: center;
+  }
+  
+  .Options {
+    list-style: none;
+    display: flex;
+    padding: 1rem;
+    justify-content: center;
+    margin-top: 30px;
+  }
+  
+  .Options li {
+    padding: 1rem;
+    background-color: var(--lightgrey);
+    font-weight: 500;
+    font-size: 1rem;
+    color: var(--medium-grey);
+  }
+  
+  .Options li:hover {
+    background-color: var(--blue-background);
+    color: white;
+  }
+  
+  .carousel-item img {
+    -o-object-fit: cover;
+       object-fit: cover;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .heading-c {
+    font-weight: bold;
+    margin-top: 30px;
+  }
+  
+  .para-c {
+    margin-top: 30px;
+  }

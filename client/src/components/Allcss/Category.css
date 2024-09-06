@@ -1,0 +1,231 @@
+
+.Options-d {
+    list-style: none;
+    display: flex;
+    padding: 1rem;
+    justify-content: center;
+    margin-top: 30px;
+  }
+  
+  .Options-d li {
+    padding: 1rem;
+    background-color: var(--lightgrey);
+    font-weight: 500;
+    font-size: 1rem;
+    color: var(--medium-grey);
+  }
+  
+  .Options-d li:hover {
+    background-color: var(--blue-background);
+    color: white;
+  }
+  
+  .card-d {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  .heading-d {
+    margin-top: 1.5rem;
+  }
+  
+  .card-body {
+    display: flex;
+    justify-content: space-between;
+    background-color: var(--lightgrey);
+    padding: 2px;
+    padding-top: 4px;
+  }
+  
+  .card-title {
+    color: gray;
+    font-size: 1rem;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  
+  .list-group-item {
+    text-align: left;
+  }
+  
+  .card-img-top {
+    height: 15rem;
+  }
+  
+  input[type=number] {
+    width: 40px;
+    font-size: 15px;
+    text-align: center;
+  }
+  
+  li button {
+    font-size: 0.9rem;
+    background-color: rgb(3, 60, 247);
+    color: white;
+  }
+  
+  .card-body {
+    background-color: var(--lightgrey);
+    padding: 2px;
+    padding-top: 4px;
+  }
+  
+  .card-link {
+    color: gray;
+    font-size: 0.8rem;
+    padding-left: 0.6rem;
+    padding-right: 0.6rem;
+  }
+  
+  .list-group-item div {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .y {
+    gap: 0.8rem;
+    padding-top: 0.4rem;
+  }
+  
+  .card {
+    height: 25rem;
+  }
+  
+  .btn-d {
+    background-color: blue;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+    color: white;
+  }
+  
+  .tab-container-1 {
+    display: none;
+  }
+  
+  .owl-carousel .item {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+  }
+  
+  .owl-carousel .item img {
+    -o-object-fit: cover;
+       object-fit: cover;
+    -o-object-position: center;
+       object-position: center;
+  }
+  
+  .e-allabove {
+    background-color: rgb(202, 201, 201);
+    text-align: center;
+    padding-top: 2rem;
+  }
+  
+  .e-all {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 5rem;
+    padding-bottom: 5rem;
+  }
+  
+  .fashion {
+    background-color: rgb(234, 231, 231);
+    height: 30rem;
+    width: 16rem;
+  }
+  
+  .fashion .c-body {
+    text-align: left;
+    margin-top: 1rem;
+    margin-left: 1rem;
+  }
+  
+  .fashion .g-item {
+    text-align: left;
+    margin-top: 1rem;
+    margin-left: 1.5rem;
+  }
+  
+  .fashion img {
+    width: 13rem;
+    height: 13rem;
+    margin-top: 1rem;
+    margin-left: 0.5rem;
+  }
+  
+  .fashion h4 {
+    text-align: left;
+    margin-left: 1.5rem;
+    margin-top: 0.5rem;
+  }
+  
+  .ab {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .a button {
+    background-color: blue;
+    color: white;
+  }
+  
+  .fashion2 {
+    width: 80%;
+    height: 30rem;
+    align-items: center;
+    background-color: white;
+  }
+  
+  .fashion2-heading {
+    text-align: left;
+    padding-left: 1rem;
+    margin-top: 0.5rem;
+  }
+  
+  .fashion-3 {
+    margin-top: 2rem;
+    display: flex;
+    justify-content: space-around;
+    padding-right:0.5rem;
+  }
+  
+  .fashion-3 .card {
+    height: 22rem;
+  }
+  
+  .fashion-3 .card-img-top {
+    -o-object-fit: cover;
+       object-fit: cover;
+  }
+  
+  .fashion-3 .g-items {
+    margin-left: 1rem;
+    text-align: left;
+  }
+  
+  .fashion-3 .card-title {
+    font-size: 0.9rem;
+    margin-left: 0.1rem;
+  }
+  
+  .fashion-3 .c-body {
+    text-align: left;
+  }
+  
+  .owl-theme {
+    max-width: 100% !important;
+    overflow: hidden; /* This ensures the carousel stays within its boundaries */
+  }
+  
+
+  .card {
+   
+    width: 100%; /* Ensures the card takes full width within its container */
+  }
+
+  
+  

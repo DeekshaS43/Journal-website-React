@@ -1,0 +1,42 @@
+.footer-body {
+    display: flex;
+    justify-content: center;
+    gap: 5rem;
+  }
+  
+  .footer-1 {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  .footer-logo {
+    text-align: center;
+    padding: 1rem;
+    background-color: #ebeef1;
+  }
+  
+  .footer-logo i {
+    font-size: 2rem;
+    padding:10px;
+  }
+  
+  .footer-1 h3 {
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    color: #43484c;
+  }
+  
+  .footer-1 h4 {
+    font-size: 1rem;
+    color: rgb(7, 102, 245);
+  }
+  
+  .footer-email {
+    display: flex;
+  }
+  
+  .footer-button button {
+    background-color: blue;
+    color: white;
+  }

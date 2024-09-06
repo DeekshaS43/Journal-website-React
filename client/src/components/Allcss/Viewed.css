@@ -1,0 +1,64 @@
+
+.darkgreybg {
+    background-color: rgb(58, 57, 57);
+  }
+  
+  .most-viewed {
+    padding-top: 2rem;
+    padding-bottom: 3rem;
+  }
+  
+  .most-viewed h2 {
+    margin: 0;
+    color: white;
+    text-align: center;
+  }
+  
+  .most-viewed h3 {
+    padding: 0;
+    margin: 0;
+    font-weight: 500;
+    font-size: 1.2rem;
+  }
+  
+  .most-viewed p {
+    padding: 0;
+    padding-left: 2px;
+  }
+  
+  .most-viewed-items-container {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    padding-top: 1rem;
+  }
+  
+  .most-viewed-item {
+    background-color: white;
+    display: flex;
+    width: 25%;
+  }
+  
+  .most-viewed-img {
+    margin: auto;
+    width: 30%;
+  }
+  
+  .most-viewed-item-details {
+    width: 70%;
+    padding: 0.8rem;
+  }
+  
+  .most-viewed-item-details a {
+    margin: 0;
+    padding-left: 2px;
+  }
+  
+  .most-viewed-item img {
+    height: 100%;
+    width: 100%;
+  }
+  
+  .most-viewed-items-icons a {
+    color: gray;
+  }

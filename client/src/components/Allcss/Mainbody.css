@@ -1,0 +1,58 @@
+:root {
+    --blue-shade-button: rgb(30, 62, 136);
+    --grey-shade-bg: rgb(242, 242, 242);
+    --blue-background: rgba(0, 0, 255, 0.891);
+    --lightgrey: rgb(216, 216, 216);
+    --dark-grey: rgb(64, 76, 84);
+    --balanced-grey: rgb(107, 107, 107);
+    --medium-grey: rgb(77, 76, 76);
+    --border-radius: 1rem;
+    --standard-padding: 1.5rem;
+    --standard-margin: 0.7rem;
+  }
+  
+.b-1 {
+    padding: var(--standard-padding);
+    display: flex;
+    -moz-column-gap: var(--standard-padding);
+         column-gap: var(--standard-padding);
+    justify-content: space-around;
+    border-radius: var(--border-radius);
+  }
+  
+  .b-b-1 {
+    width: 80%;
+    border-radius: var(--border-radius);
+    display: flex;
+  }
+  
+  .carousel-caption d-none d-md-block .btn {
+    background-color: rgb(236, 236, 240);
+    color: white;
+    border: none;
+    font-size: medium;
+    border: none;
+  }
+  
+  .carousal-btn:hover {
+    background-color: blue;
+    color: white;
+  }
+  
+  .b-b-1 .carousel-caption {
+    background-color: transparent !important;
+    padding: 85px 2px !important;
+  }
+  
+  .b-b-2 {
+    border-radius: var(--border-radius);
+    display: flex;
+    flex-direction: column;
+    gap: var(--standard-padding);
+    width: 30%;
+    row-gap: var(--standard-padding);
+  }
+  
+  .b-b-21 {
+    width: 85%;
+  }

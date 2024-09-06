@@ -1,0 +1,84 @@
+.Navbar-a {
+    background-color: rgb(250, 250, 250);
+    padding: 5px 20px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .nav-heading {
+    margin-top: 1rem;
+  }
+  
+  .nav-icon {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .nav-icon div {
+    padding: 0 0.6rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .nav-icon i {
+    align-self: center;
+  }
+  
+  .nav-icon lable {
+    font-size: 0.7rem;
+    font-weight: 350;
+    text-align: center;
+  }
+  
+  .nav-search {
+    padding-top: 1.5rem;
+    width: 30%;
+  }
+  .nav-search .search {
+    width: 80%;
+    height: 50%;
+    border: none;
+    margin: -4px;
+    padding: 0;
+  }
+  .nav-search .All {
+    height: 50%;
+    margin: 0px;
+    border: none;
+    background-color: blue;
+    color: white;
+  }
+  .nav-search .glass {
+    height: 50%;
+    margin: 0px;
+    border: none;
+    background-color: blue;
+    color: white;
+  }
+  
+  .nav-items {
+    padding-top: 0.9rem;
+  }
+  
+  .ham {
+    display: inline-block;
+    padding: 0.5rem;
+    margin: 0.5rem;
+    background-color: blue;
+  }
+  
+  .nav-items a {
+    font-size: 1rem;
+    vertical-align: top;
+  }
+  
+  .nav-items i {
+    color: white;
+  }
+  
+  nav {
+    background-color: blue;
+    margin: auto;
+  }
+  

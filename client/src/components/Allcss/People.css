@@ -1,0 +1,27 @@
+.people-as .people-r {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 3rem;
+  }
+  
+  .peoples {
+    text-align: center;
+  }
+  
+  .peoples-heading {
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+  }
+  
+  .logo-people {
+    font-size: 3rem;
+  }
+  
+  .link-people h5 {
+    font-size: 1rem;
+    color: #8b9ead;
+  }
+  
+  .people-r {
+    gap: 2rem;
+  }

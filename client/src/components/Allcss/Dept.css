@@ -1,0 +1,46 @@
+.dept {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .department {
+    list-style-type: none;
+  }
+  
+  .department ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .department li {
+    padding: 1rem;
+    display: inline-block;
+    color: black;
+  }
+  
+  .department li a {
+    vertical-align: middle;
+    font-size: 1rem;
+    padding: 0.5rem;
+    color: white;
+    text-decoration: none;
+  }
+  
+  .department li a:hover {
+    font-size: 1rem;
+    padding: 1rem 0.5rem;
+    background-color: yellow;
+    color: black;
+  }
+  
+  .dept-w a {
+    background-color: yellow;
+    color: black !important;
+  }
+  
+  .dept-w {
+    background-color: yellow;
+    color: black !important;
+  }

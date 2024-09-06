@@ -1,0 +1,122 @@
+.da-1{
+    text-align:center;
+    background-color:rgb(250, 247, 247);
+  }
+  
+  
+  .Options-d {
+    list-style: none;
+    display: flex;
+    padding: 1rem;
+    justify-content: center;
+    margin-top:30px;
+  
+  }
+  
+  .Options-d li {
+    padding: 1rem;
+    background-color: var(--lightgrey);
+    font-weight: 500;
+    font-size: 1rem;
+    color: var(--medium-grey);
+  }
+  
+  .Options-d li:hover {
+    background-color: var(--blue-background);
+    color: white;
+  }
+  
+  
+  .card-d{
+    display:flex;
+    justify-content: space-around; 
+    align-items:center;
+    
+  }
+  .heading-d{
+   margin-top:1.5rem;
+   
+  }
+  
+  .card-body{
+    display:flex;
+    justify-content:space-between;
+    background-color:var(--lightgrey);
+    padding:2px;
+    padding-top:4px;
+    
+  }
+  
+  .card-title{
+    color:gray;
+    font-size:1rem;
+    padding-left:15px;
+    padding-right:15px;
+  
+  }
+  .list-group-item{
+    text-align:left;
+  }
+  .card-img-top{
+    height:15rem;
+  }
+  
+  
+  input[type="number"] {
+    width: 40px;
+    font-size: 15px;
+    text-align: center;
+  }
+  li button{
+    font-size:0.9rem;
+    background-color:rgb(3, 60, 247);
+    color:white;
+  }
+  .card-body{
+    background-color:var(--lightgrey);
+    padding:2px;
+    padding-top:4px;
+    
+  }
+  .card-link{
+    color:gray;
+    font-size:0.8rem;
+    padding-left:0.6rem;
+    padding-right:0.6rem;
+  }
+  
+  .list-group-item div{
+    display:flex;
+    justify-content:space-between;
+  }
+  .y{
+    gap:0.8rem;
+    padding-top:0.4rem;
+  }
+  
+  .card{
+    height:25rem;
+  }
+  .btn-d{
+    background-color:blue;
+    margin-top:4rem;
+    margin-bottom:4rem;
+    color:white;
+  }
+  
+  .tab-container-1{
+    display:none;
+  }
+
+  .owl-theme {
+    max-width: 100% !important;
+    overflow: hidden; /* This ensures the carousel stays within its boundaries */
+  }
+  
+
+  .card {
+   
+    width: 100%; /* Ensures the card takes full width within its container */
+  }
+
+ 

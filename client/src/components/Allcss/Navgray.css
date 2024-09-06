@@ -1,0 +1,34 @@
+.navgray{
+    display:flex;
+    justify-content:center;
+    gap:7rem;
+    background-color:  rgb(64, 76, 84);
+  }
+  .gray1{
+    display:flex;
+    padding:10px;
+    gap:1rem;
+  
+  }
+  .grayicon{
+    text-align: center;
+    border:2px solid #0d52d6;
+    border-radius:50%;
+    padding:1rem;
+  }
+  .graytext{
+    padding:0px;
+    margin:0px;
+  }
+  .main{
+    font-weight: bold;
+    color:white;
+    font-size:15px;
+  }
+  
+  .sub{
+    
+      color: rgb(216, 216, 216);
+      font-size:12px;
+    
+  }

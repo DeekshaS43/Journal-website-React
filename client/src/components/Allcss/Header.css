@@ -1,0 +1,51 @@
+.wrapper {
+    width: 1280px;
+    margin: auto;
+  }
+  
+  .Navbar {
+    background-color: white;
+    padding: 5px 20px;
+    display: flex;
+    justify-content: space-between;
+  }
+  .Navbar ul {
+    display: flex-center;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  .Navbar ul li {
+    margin-right: 20px;
+    position: relative;
+  }
+  .Navbar ul li i {
+    margin-right: 5px;
+  }
+  .Navbar ul li .dropdown-icon {
+    margin-left: 5px;
+  }
+  .Navbar ul:last-child {
+    margin-right: 0;
+  }
+  
+  .nav1 {
+    display: flex;
+    align-items: center;
+  }
+  
+  .nav2 {
+    display: flex;
+    align-items: center;
+  }
+  
+  .nav3 {
+    display: flex;
+    align-items: center;
+  }
+  
+  .Navbar-mobile {
+    display: none;
+  }
+  
+  
